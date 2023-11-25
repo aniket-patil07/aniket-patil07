@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif){:height="200px"}](https://www.linkedin.com/in/aniketpatil07/)
+[![MasterHead]([https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif))](https://www.linkedin.com/in/aniketpatil07/)
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
 <h3 align="center">Passionate data enthusiast with expertise in data analysis, business analysis, and data engineering, transforming insights into actionable solutions.</h3>
 <img align="right" alt="Analyzing" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
