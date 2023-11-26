@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Power BI, Tableau, Python, Machine learning**
 
-- 📫 How to reach me **aniket.patil07@outlook.com**
+- 📫 How to reach me **aniket.patil7@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
