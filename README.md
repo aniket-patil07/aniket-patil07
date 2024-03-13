@@ -1,4 +1,3 @@
-<button onclick="document.body.classList.toggle('dark-theme')">Switch Theme</button>
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)](https://www.linkedin.com/in/aniketpatil07/)
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
 <h3 align="center">Passionate data enthusiast with expertise in data analysis, business analysis, and data engineering, transforming insights into actionable solutions.</h3>
